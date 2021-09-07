@@ -28,8 +28,8 @@ namespace CodingEventsAPI {
             "v1",
             new OpenApiInfo {
               Version = "v1",
-              Title = "Coding Events API",
-              Description = "REST API for managing Coding Events"
+              Title = "This is the new Title",
+              Description = "It better work!!"
             }
           );
         }
